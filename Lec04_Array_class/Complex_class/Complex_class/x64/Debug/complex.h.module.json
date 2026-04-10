@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Complex.h.obj",
+            "outputs": [
+                "C:\\Users\\a2227\\OneDrive\\바탕 화면\\data-structure-lab-2026\\Lec04_Array_class\\Complex\\Complex\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\a2227\\OneDrive\\바탕 화면\\data-structure-lab-2026\\Lec04_Array_class\\Complex\\Complex\\x64\\Debug\\Complex.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Complex.h",
+                    "source-path": "c:\\users\\a2227\\onedrive\\바탕 화면\\data-structure-lab-2026\\lec04_array_class\\complex\\complex\\complex.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
