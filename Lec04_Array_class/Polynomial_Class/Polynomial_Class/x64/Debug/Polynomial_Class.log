@@ -1,0 +1,6 @@
+﻿  Polynomial_Class.cpp
+C:\Users\a2227\OneDrive\바탕 화면\data-structure-lab-2026\Lec04_Array_class\Polynomial_Class\Polynomial_Class\Polynomial.h(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  (소스 파일 'Polynomial_Class.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\a2227\OneDrive\바탕 화면\data-structure-lab-2026\Lec04_Array_class\Polynomial_Class\Polynomial_Class\Polynomial_Class.cpp(2,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Polynomial_Class.vcxproj -> C:\Users\a2227\OneDrive\바탕 화면\data-structure-lab-2026\Lec04_Array_class\Polynomial_Class\x64\Debug\Polynomial_Class.exe

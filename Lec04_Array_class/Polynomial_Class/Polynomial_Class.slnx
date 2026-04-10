@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Polynomial_Class/Polynomial_Class.vcxproj" />
+  <Project Path="Polynomial_Class/Polynomial_Class.vcxproj" Id="2394f854-d46d-459f-82d6-81cc745c0714" />
 </Solution>
