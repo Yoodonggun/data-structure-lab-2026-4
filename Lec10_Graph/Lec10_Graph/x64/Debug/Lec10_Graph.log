@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(1,1): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(1,11): error C2143: 구문 오류: ';'이(가) '문자열' 앞에 없습니다.
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(1,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(1,11): error C2530: 'include': 참조를 초기화해야 합니다.
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(1,11): error C2059: 구문 오류: '문자열'
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(2,10): error C2059: 구문 오류: ')'
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(3,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\USER\Desktop\데구조4\data-structure-lab2\Lec10_Graph\Lec10_Graph\main.cpp(3,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
