@@ -1,9 +1,9 @@
-% include "AdjMatGraph.h"
-void main)()
+#include "AdjMatGraph.h"
+int main()
 {
 	AdjMatGraph g;
 
-	for (int i = 0; i < 4; i++)
+	for (int i=0; i < 4; i++)
 	g.insertVertex('A' + i);
 	g.insertEdge(0, 1);
 	g.insertEdge(0, 3);
@@ -14,7 +14,15 @@ void main)()
 	g.display();
 
 	FILE* fp;
-	fopen_s(&fp, "../text_out.txt", "\n");
-		g.display(fp);
+	fopen_s(&fp, "../text_out.txt", "w");
+	g.display(fp);
 	fclose(fp);
+
+	
+	printf("DFS ==> ");
+	g.resetVisited();
+	g.DFS(0);
+	printf("\n");
+
+	return 0;
 }
